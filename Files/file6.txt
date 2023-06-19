@@ -1,0 +1,6 @@
+
+Java supports multiple inheritance through a concept called interfaces.
+ An interface is an abstract class that defines a set of methods without providing any implementation.
+ A class can implement one or more interfaces and provide the implementation for the methods.
+ This way, a class can inherit the behavior of multiple interfaces without having to extend multiple classes. 
+Interfaces also allow for polymorphism, which means that an object can be treated as different types depending on the context.
